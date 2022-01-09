@@ -1,4 +1,4 @@
-package com.remizov.brest;
+package com.remizov.brest.myapp.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
