@@ -1,4 +1,4 @@
-package com.remizov.brest.myapp;
+package com.remizov.brest.myapp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

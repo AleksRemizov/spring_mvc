@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html; charset=UTF-8" %>
 <head>
     <meta charset="UTF-8">
@@ -17,7 +18,7 @@ Sök
             <ul class="navbar">
                 <li><a href="/home">home</a></li>
                 <li><a href="/goToLogin">login</a></li>
-                <li><a href="/goToSearch">search</a></li>
+                <li><a href="/gotoSearch">search</a></li>
                 <li><a href="redirect">linkedin</a></li>
             </ul><!-- navbar -->
         </div><!-- container nav-elements -->
